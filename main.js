@@ -70,25 +70,25 @@ function player_update(){
             right();
             console.log ("right");
           }
-          if(keyPressed=='87'){
-            new_image('wall.jpg');
-            console.log("W");
+          if(keyPressed=='70'){
+            new_image('ironman_face.png');
+            console.log("f");
           }
-          if(keyPressed=='71'){
-            new_image('ground.png');
-            console.log("G");
+          if(keyPressed=='66'){
+            new_image('spiderman_body.png');
+            console.log("b");
           }
           if(keyPressed=='76'){
-            new_image('light_green.png');
+            new_image('thor_left_hand.png');
             console.log("L");
           }
-          if(keyPressed=='84'){
-            new_image('trunk.jpg');
-            console.log("T");
+          if(keyPressed=='71'){
+            new_image('hulk_legs.png');
+            console.log("g");
           }
           if(keyPressed=='82'){
-            new_image('roof.jpg');
-            console.log("R");
+            new_image('hulk_right_hand.png');
+            console.log("r");
           }
           if(keyPressed=='89'){
             new_image('yellow_wall.png');
